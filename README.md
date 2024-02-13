@@ -1,7 +1,7 @@
 # Deep-Learning-for-Sentimental-Analysis-for-Google-Play
 The project aims to leverage Long Short-Term Memory (LSTM) models to analyze and predict the sentiment of Google Play Store reviews. The primary objective is to estimate the number of stars associated with each review, which reflects the overall sentiment or satisfaction level expressed by the reviewers.
 
-
+### Model Architecture
 This is our model architecture for LSTM:
 
 ![image](https://github.com/SamuelkohP04/Deep-Learning-Sentimental-Analysis-for-Google-Play-Reviews/assets/105436607/7f2bbc9f-17a6-4e29-8b64-791e5753fb48)
