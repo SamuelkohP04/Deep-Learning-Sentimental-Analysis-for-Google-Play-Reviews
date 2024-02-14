@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "word_embeddings_6:0"
+  metadata_path: "metadata.tsv"
+}
